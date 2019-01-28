@@ -1,0 +1,26 @@
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe.config
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.pdb
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.dll
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.xml
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csproj.CopyComplete
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.exe
+C:\Users\reall\source\repos\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.pdb
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe.config
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.pdb
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.dll
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.xml
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка\ReceiptApp\ReceiptApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\Новая папка\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csprojAssemblyReference.cache
+D:\Новая папка\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csproj.CoreCompileInputs.cache
+D:\Новая папка\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csproj.CopyComplete
+D:\Новая папка\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.exe
+D:\Новая папка\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.pdb
